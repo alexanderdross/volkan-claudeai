@@ -1,0 +1,58 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Engine Parts",
+    "slug": "engine-parts",
+    "description": "Engine components, accessories, and related systems",
+    "icon": "🔧"
+  },
+  {
+    "id": "cat-2",
+    "name": "Avionics",
+    "slug": "avionics",
+    "description": "Electronic systems for aircraft navigation, communication, and monitoring",
+    "icon": "📡"
+  },
+  {
+    "id": "cat-3",
+    "name": "Landing Gear",
+    "slug": "landing-gear",
+    "description": "Landing gear systems, wheels, brakes, and related components",
+    "icon": "🛬"
+  },
+  {
+    "id": "cat-4",
+    "name": "Hydraulics",
+    "slug": "hydraulics",
+    "description": "Hydraulic systems, pumps, valves, and actuators",
+    "icon": "⚙️"
+  },
+  {
+    "id": "cat-5",
+    "name": "Instruments",
+    "slug": "instruments",
+    "description": "Flight instruments, gauges, and indicators",
+    "icon": "📊"
+  },
+  {
+    "id": "cat-6",
+    "name": "Electrical",
+    "slug": "electrical",
+    "description": "Electrical systems, wiring, batteries, and power components",
+    "icon": "⚡"
+  },
+  {
+    "id": "cat-7",
+    "name": "Propellers",
+    "slug": "propellers",
+    "description": "Propellers, spinners, and propeller accessories",
+    "icon": "🌀"
+  },
+  {
+    "id": "cat-8",
+    "name": "Interior",
+    "slug": "interior",
+    "description": "Cabin interior parts, seats, panels, and upholstery",
+    "icon": "🪑"
+  }
+]

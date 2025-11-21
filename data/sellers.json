@@ -1,0 +1,42 @@
+[
+  {
+    "id": "seller-1",
+    "companyName": "AeroTech Parts Inc.",
+    "contactEmail": "sales@aerotechparts.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "1234 Aviation Blvd, Los Angeles, CA 90045",
+    "certifications": ["FAA Certified", "EASA Approved", "ISO 9001"],
+    "logo": "/sellers/aerotech-logo.png",
+    "description": "Leading supplier of aviation parts with over 30 years of experience"
+  },
+  {
+    "id": "seller-2",
+    "companyName": "SkyWing Components",
+    "contactEmail": "info@skywing.com",
+    "phone": "+1 (555) 234-5678",
+    "address": "5678 Airport Way, Miami, FL 33142",
+    "certifications": ["FAA Certified", "AS9100 Certified"],
+    "logo": "/sellers/skywing-logo.png",
+    "description": "Specializing in avionics and electrical systems"
+  },
+  {
+    "id": "seller-3",
+    "companyName": "PropellerPro",
+    "contactEmail": "contact@propellerpro.com",
+    "phone": "+1 (555) 345-6789",
+    "address": "910 Propeller St, Dallas, TX 75201",
+    "certifications": ["FAA Certified", "PMA Approved"],
+    "logo": "/sellers/propellerpro-logo.png",
+    "description": "Your trusted source for propellers and engine parts"
+  },
+  {
+    "id": "seller-4",
+    "companyName": "Aviation Direct",
+    "contactEmail": "sales@aviationdirect.com",
+    "phone": "+1 (555) 456-7890",
+    "address": "2468 Flight Path, Seattle, WA 98108",
+    "certifications": ["FAA Certified", "EASA Approved", "ISO 9001", "AS9120"],
+    "logo": "/sellers/aviationdirect-logo.png",
+    "description": "Comprehensive aviation parts and maintenance supplies"
+  }
+]
